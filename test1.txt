@@ -1,10 +1,1 @@
- Volume in drive C is Vertex
- Volume Serial Number is AA05-F11D
-
- Directory of C:\Users\brook.marley\OneDrive - Vertex, Inc\Desktop\gitproject
-
-08/05/2020  01:35 PM    <DIR>          .
-08/05/2020  01:35 PM    <DIR>          ..
-08/05/2020  01:35 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  109,509,320,704 bytes free
+change 1
